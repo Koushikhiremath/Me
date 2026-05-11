@@ -47,6 +47,12 @@
         "role": "Senior Software Engineer",
         "period": "03/2023 - 02/2024",
         "details": "Pioneered AI-driven coding tool utilizing OpenAI API. Managed AWS deployments via Jenkins."
+      },
+      {
+        "company": "IVY Mobility Pvt Ltd",
+        "role": "Software Engineer",
+        "period": "01/2020 - 8/2021",
+        "details": "Contributed to the success of IVY Retailer as a key member of the interface team, specializing in developing Restful services using DotNet Core and Angular (13) for the front end. Executed responsibilities included writing unit test cases, managing complex stored procedures, and optimizing both procedures and code for defined user stories, ensuring a seamless product experience"
       }
     ],
     "skills": [
