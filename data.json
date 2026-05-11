@@ -15,7 +15,7 @@
     "phone": "+91 9739336649",
     "location": "Bengaluru, Karnataka",
     "socials": [
-      { "name": "GitHub", "icon": "fa-brands fa-github", "url": "https://github.com/your-username" },
+      { "name": "GitHub", "icon": "fa-brands fa-github", "url": "https://github.com/koushikhiremath" },
       { "name": "LinkedIn", "icon": "fa-brands fa-linkedin", "url": "https://linkedin.com/in/koushik-h-m" },
       { "name": "X (Twitter)", "icon": "fa-brands fa-x-twitter", "url": "https://x.com/" },
       { "name": "YouTube", "icon": "fa-brands fa-youtube", "url": "https://youtube.com/" },
@@ -31,9 +31,15 @@
     },
     "experience": [
       {
+        "company": "Value Labs",
+        "role": "Module Lead",
+        "period": "01/2025 - Present",
+        "details": "Key developer and Module Lead for a high-security digital platform, focusing on scalable system architecture and complex third-party integrations (DHL, World Courier). Delivered a robust Document Management System and an Authenticator Application, showcasing expertise in building enterprise-grade, secure foundations necessary for future AI-driven services."
+      },
+      {
         "company": "RGBSI Pvt Ltd",
         "role": "Senior Software Engineer",
-        "period": "02/2024 - Present",
+        "period": "02/2024 - 01/2025",
         "details": "Developing industry-standard CAD parts version control software using Blazor and .NET Core API."
       },
       {
