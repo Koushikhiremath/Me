@@ -40,13 +40,19 @@
         "company": "RGBSI Pvt Ltd",
         "role": "Senior Software Engineer",
         "period": "02/2024 - 01/2025",
-        "details": "Developing industry-standard CAD parts version control software using Blazor and .NET Core API."
+        "details": "Served as a Full Stack Senior Software Developer for an industry-standard PLM software, focusing on scalable version control architecture. Utilized Blazor, .NET Core API, and Azure DevOps for continuous integration and deployment (CI/CD), ensuring enterprise-grade stability and performance."
       },
       {
         "company": "Opteamix LLC",
         "role": "Senior Software Engineer",
         "period": "03/2023 - 02/2024",
-        "details": "Pioneered AI-driven coding tool utilizing OpenAI API. Managed AWS deployments via Jenkins."
+        "details": "Led the end-to-end development of Code Whiz an innovative Generative AI-driven coding assistant, leveraging the OpenAI API and Python/Flask to significantly boost developer productivity. My role included designing AI workflows, integrating LLMs, and guiding the team through complex feature implementations."
+      },
+      {
+        "company": "Opteamix LLC",
+        "role": "Software Engineer",
+        "period": "08/2021 – 03/2023",
+        "details": "Drove the modernization of a client's banking application (Credit Suite), adopting Blazor/Angular for the front end and DotNet Core/Azure Functions for serverless computing. Key responsibilities included managing the end-to-end deployment pipeline (Dev to UAT) and serving as the release engineer for a critical, user-centric banking solution."
       },
       {
         "company": "IVY Mobility Pvt Ltd",
