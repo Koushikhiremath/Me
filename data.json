@@ -1,6 +1,6 @@
 {
   "config": {
-    "site_title": "Koushik Hiremath - Azure Developer Associate",
+    "site_title": "Koushik Hiremath - Senior Full-Stack Software Engineer",
     "theme_color": "#2b6cee",
     "terminal_user": "koushik",
     "terminal_host": "dotnet",
@@ -10,7 +10,7 @@
   },
   "profile": {
     "name": "Koushik Hiremath",
-    "role": "Azure Developer Associate",
+    "role": "Senior Full-Stack Software Engineer",
     "email": "koushikhiremath@gmail.com",
     "phone": "+91 9739336649",
     "location": "Bengaluru, Karnataka",
@@ -27,57 +27,53 @@
     "help": "Available commands: <span class='text-[var(--primary)]'>about, experience, skills, contact, clear</span>",
     "about": {
       "header": "SUMMARY",
-      "text": "Dedicated and results-oriented full-stack developer with 4+ years of experience. Expert in transforming ideas into tangible solutions with strong DevOps and Azure capabilities."
+      "text": "A Senior Full-Stack Software Engineer with over 6+ years of experience in C#, WPF, and .NET Framework, specializing in developing robust healthcare and diagnostic solutions. Proven expertise in Agile methodologies, medical device integration, and hospital Laboratory Information Systems (LIS). Combines strong full-stack and DevOps foundations with a track record of delivering scalable, patient-centric solutions, including integrating Generative AI (OpenAI) to drive continuous improvement and innovation."
     },
     "experience": [
       {
         "company": "Value Labs",
-        "role": "Module Lead",
+        "role": "Senior System Associate",
         "period": "01/2025 - Present",
-        "details": "Key developer and Module Lead for a high-security digital platform, focusing on scalable system architecture and complex third-party integrations (DHL, World Courier). Delivered a robust Document Management System and an Authenticator Application, showcasing expertise in building enterprise-grade, secure foundations necessary for future AI-driven services."
+        "details": "Medicover Project (Immunowell JCV Portal): Developed and scaled a comprehensive diagnostic platform connecting HCPs, logistics partners, and hospital Laboratory Information Systems (LIS) for sample collection and test result delivery. Actively participated in Agile methodologies and all sprint ceremonies. Implemented robust data extraction pipelines, querying complex XML lab reports and converting them into modern PDF formats. Delivered high-security foundations using C#, WPF, and .NET, including custom authentication and document management to handle sensitive medical data reliably."
       },
       {
         "company": "RGBSI Pvt Ltd",
         "role": "Senior Software Engineer",
         "period": "02/2024 - 01/2025",
-        "details": "Served as a Full Stack Senior Software Developer for an industry-standard PLM software, focusing on scalable version control architecture. Utilized Blazor, .NET Core API, and Azure DevOps for continuous integration and deployment (CI/CD), ensuring enterprise-grade stability and performance."
+        "details": "PLM(Product Life Cycle Management of CAD Parts): Served as a Full Stack Senior Software Developer for an industry-standard PLM software, focusing on scalable version control architecture. Utilized Blazor, .NET Core API, and Azure DevOps for continuous integration and deployment (CI/CD), ensuring enterprise-grade stability and performance."
       },
       {
         "company": "Opteamix LLC",
         "role": "Senior Software Engineer",
         "period": "03/2023 - 02/2024",
-        "details": "Led the end-to-end development of Code Whiz an innovative Generative AI-driven coding assistant, leveraging the OpenAI API and Python/Flask to significantly boost developer productivity. My role included designing AI workflows, integrating LLMs, and guiding the team through complex feature implementations."
+        "details": "Code Whiz: Led the end-to-end development of an innovative Generative AI-driven coding assistant, leveraging the OpenAI API and Python/Flask to significantly boost developer productivity. My role included designing AI workflows, integrating LLMs, and guiding the team through complex feature implementations."
       },
       {
         "company": "Opteamix LLC",
         "role": "Software Engineer",
         "period": "08/2021 – 03/2023",
-        "details": "Drove the modernization of a client's banking application (Credit Suite), adopting Blazor/Angular for the front end and DotNet Core/Azure Functions for serverless computing. Key responsibilities included managing the end-to-end deployment pipeline (Dev to UAT) and serving as the release engineer for a critical, user-centric banking solution."
+        "details": "Credit Suite: Drove the modernization of a client's banking application (Credit Suite), adopting Blazor/Angular for the front end and DotNet Core/Azure Functions for serverless computing. Key responsibilities included managing the end-to-end deployment pipeline (Dev to UAT) and serving as the release engineer for a critical, user-centric banking solution."
       },
       {
         "company": "IVY Mobility Pvt Ltd",
         "role": "Software Engineer",
         "period": "01/2020 - 8/2021",
-        "details": "Contributed to the success of IVY Retailer as a key member of the interface team, specializing in developing Restful services using DotNet Core and Angular (13) for the front end. Executed responsibilities included writing unit test cases, managing complex stored procedures, and optimizing both procedures and code for defined user stories, ensuring a seamless product experience"
+        "details": "IVY Retailer: Contributed to the success of IVY Retailer as a key member of the interface team, specializing in developing Restful services using DotNet Core and Angular for the front end. Executed responsibilities included writing unit test cases, managing complex stored procedures, and optimizing both procedures and code for defined user stories, ensuring a seamless product experience."
       }
     ],
     "skills": [
-      { "name": "C# / .NET Core / Blazor", "level": 95 },
+      { "name": "C# / .NET Framework / WPF", "level": 95 },
+      { "name": "XML Querying / T-SQL / SQL Server", "level": 90 },
+      { "name": "Azure DevOps / CI/CD", "level": 90 },
+      { "name": "Agile / SAFe Methodologies", "level": 95 },
+      { "name": "LIS Integration / Healthcare Tech", "level": 85 },
+      { "name": "Generative AI / OpenAI API / LangChain", "level": 85 },
+      { "name": "React / Angular / Blazor", "level": 90 },
       { "name": "Python / Flask", "level": 85 },
-      { "name": "Azure DevOps / Jenkins", "level": 90 },
-      { "name": "React / Angular", "level": 95 },
-      { "name": "SQL / NoSQL Databases", "level": 90 },
-      { "name": "Docker / Kubernetes", "level": 80 },
       { "name": "Git / Version Control", "level": 95 },
-      { "name": "CI/CD Pipelines", "level": 90 },
-      { "name": "Unit Testing / TDD", "level": 85 },
-      { "name": "Agile / Scrum Methodologies", "level": 90 },
-      { "name": "Cloud Platforms (Azure, AWS)", "level": 90 },
-      { "name": "Microservices Architecture", "level": 85 },
-      { "name": "API Design / RESTful Services", "level": 90 },
-      { "name": "Problem Solving / Debugging", "level": 95 },
-      { "name": "Communication / Team Collaboration", "level": 90 },
-      { "name": "Project Management / Leadership", "level": 85 }
+      { "name": "Unit Testing / TDD (Xunit, Nunit)", "level": 90 },
+      { "name": "Cloud Platforms (Azure, Ubuntu Server)", "level": 90 },
+      { "name": "Microservices & API Design", "level": 85 }
     ],
     "contact": "Email: koushikhiremath@gmail.com<br>LinkedIn: linkedin.com/in/koushik-h-m<br>Loc: Bengaluru, Karnataka"
   }
